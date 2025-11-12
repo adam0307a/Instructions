@@ -6,6 +6,7 @@ highlighter: shiki
 lineNumbers: false
 transition: slide-left
 title: "Slidev ile Animasyonlu Sunumlar Oluşturma"
+favicon: 'slideshow.png'
 ---
 
 # Slidev ile Animasyonlu Sunumlar Oluşturma 🎬
